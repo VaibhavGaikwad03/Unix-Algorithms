@@ -8,7 +8,7 @@ static struct buffer *freelist_tail = NULL;
 
 /* queues (array of linked lists) */
 static struct buffer *queues[NO_OF_QUEUES];
-
+ 
 static void init_hashing()
 {
     int index;
