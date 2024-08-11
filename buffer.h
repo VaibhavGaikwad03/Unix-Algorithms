@@ -1,6 +1,6 @@
 #ifndef BUFFER_H
 #define BUFFER_H
- 
+  
 /* required header files */
 #include <stdint.h>
 
